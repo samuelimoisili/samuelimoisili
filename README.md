@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**samuelimoisili/samuelimoisili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 👋🏻
 
-Here are some ideas to get you started:
+I'm a lover of music 🎶 and art 🎨, and can often be found taking long walks in the city 🏙️. By day, I'm a programmer 💻, but by night, I'm a serial project starter 🚀 with a long list of unfinished ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I may never finish all my projects, but at least I'm consistent! But who knows, maybe one day I'll actually finish one of them!😂 If you're looking for someone who's always willing to try something new and never afraid to fail, you've come to the right place.
+
+Let's make something great together!
+
+### 🎉 Fun facts:
+
+- My favourite coding playlist includes the "Classical Mix" and "Indie Mix" playlists on Spotify.
+- My favourite pass time is a long city walk through the streets of London, UK.
+- I once spent an entire weekend building a chatbot to compare book prices (It still needs a little work...)
+
+### 🚀 Skills:
+
+- Python, Golang, JavaScript, and Java
+- React, Node.js, and Flask
+- AWS, GCP, Docker, and Kubernetes
+
+### 🌱 Currently Learning:
+
+- Rust and Kotlin
+
+### 📫 Get in touch:
+
+- Email: me@omohan.com
