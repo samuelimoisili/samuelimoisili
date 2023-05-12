@@ -19,7 +19,7 @@ Let's make something great together!
 
 - Python, Golang, JavaScript, and Java
 - React, Node.js, LWJGL and Flask
-- AWS, GCP, Docker, and Kubernetes
+- AWS, GCP, and Docker
 
 ### 🌱 Currently Learning:
 
