@@ -10,13 +10,15 @@ Let's make something great together!
 ### 🎉 Fun facts:
 
 - My favourite coding playlist includes the "Classical Mix" and "Indie Mix" playlists on Spotify.
-- My favourite pass time is a long city walk through the streets of London, UK.
-- I once spent an entire weekend building a chatbot to compare book prices (It still needs a little work...)
+- When I'm not programming, you can find me taking long walks around the city, trying to come up with ideas for yet another abandoned project.
+- If at first you don't succeed, try, try again. And if that doesn't work, or is going well, abandon the project and start something new.
+- They say that programming is a never-ending learning process, which is good news for me since I seem to forget everything I learned the minute I finish a project.
+- I believe that a good programmer is someone who looks both ways before crossing a one-way street.
 
 ### 🚀 Skills:
 
 - Python, Golang, JavaScript, and Java
-- React, Node.js, and Flask
+- React, Node.js, LWJGL and Flask
 - AWS, GCP, Docker, and Kubernetes
 
 ### 🌱 Currently Learning:
