@@ -27,4 +27,4 @@ Let's make something great together!
 
 ### 📫 Get in touch:
 
-- Email: me@omohan.com
+- GitHub: Create an issue on this repo
