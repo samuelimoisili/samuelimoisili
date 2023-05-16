@@ -11,7 +11,7 @@ Let's make something great together!
 
 - My favourite coding playlist includes the "Classical Mix" and "Indie Mix" playlists on Spotify.
 - I believe that a good programmer is someone who looks both ways before crossing a one-way street.
-- My mantra when building projects is if you fail, try, try again. And it begins to work out, abandon the project and start something new.
+- My mantra when building projects is if you fail, try, try again. And when things begin to work smoothly, abandon the project and start something new.
 - When I'm not programming, you can find me taking long walks around the city, trying to come up with ideas for yet another abandoned project.
 - They say that programming is a never-ending learning process, which is good news for me since I seem to forget everything I learned the minute I finish a project.
 
