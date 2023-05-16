@@ -1,7 +1,7 @@
 
 ## Hi there! 👋🏻
 
-I'm a lover of music 🎶 and art 🎨, and can often be found taking long walks in the city 🏙️. I'm a serial project starter 🚀 with a long list of unfinished ideas.
+I'm a lover of music 🎶, and can often be found taking long walks in the city 🏙️. I'm a serial project starter 🚀 with a long list of unfinished ideas.
 
 I may never finish all my projects, but at least I'm consistent! But who knows, maybe one day I'll actually finish one of them!😂 If you're looking for someone who's always willing to try something new and never afraid to fail, you've come to the right place.
 
