@@ -9,7 +9,7 @@ Let's make something great together!
 
 ### 🎉 Fun facts:
 
-- My favourite coding playlist includes the "Classical Mix" and "Indie Mix" playlists on Spotify.
+- My favourite coding playlist includes the "Classical Mix" and "Indie Mix" on Spotify.
 - I believe that a good programmer is someone who looks both ways before crossing a one-way street.
 - My mantra when building projects is if you fail, try, try again. And when things begin to work smoothly, abandon the project and start something new.
 - When I'm not programming, you can find me taking long walks around the city, trying to come up with ideas for yet another abandoned project.
